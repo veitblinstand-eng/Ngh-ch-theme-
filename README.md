@@ -1,2 +1,2 @@
 # Ngh-ch-theme-
-Based on Ari
+Based on Ari Theme
