@@ -1,2 +1,3 @@
-# Ngh-ch-theme-
-Based on Ari Theme
+# Nghich-theme-
+Based on anytheme on discord
+
