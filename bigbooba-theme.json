@@ -14,6 +14,10 @@
     },
     "main": {
         "type": "dark",
+        "background": {
+            "blur": 0.05,
+            "url": "https://files.catbox.moe/hs9r75.jpg"
+        },
         "semantic": {
             "BACKGROUND_TERTIARY": ["#141414"],
             "BACKGROUND_ACCENT": ["#141414"],
@@ -123,9 +127,5 @@
         "version": "0",
         "iconpack": "solarduotone",
         "mentionLineColor": "#FFFFFF"
-    },
-    "background": {
-        "blur": 0.05,
-        "url": "https://files.catbox.moe/hs9r75.jpg"
     }
 }
