@@ -125,7 +125,7 @@
         "mentionLineColor": "#FFFFFF"
     },
     "background": {
-        "blur": 0.10,
+        "blur": 0.05,
         "url": "https://files.catbox.moe/hs9r75.jpg"
     }
 }
