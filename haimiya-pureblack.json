@@ -15,7 +15,7 @@
     "main": {
         "type": "dark",
         "background": {
-            "blur": 0.15,
+            "blur": 1.5,
             "url": "https://files.catbox.moe/5izcwz.jpg"
         },
         "semantic": {
